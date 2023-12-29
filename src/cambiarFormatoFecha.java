@@ -25,7 +25,7 @@ public class cambiarFormatoFecha {
 
             i++;
         }
-
+        entrada.close();
     }
 
     public static String convertirFecha(String fecha){
